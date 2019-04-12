@@ -10,7 +10,7 @@ class Header extends Component {
       <div className="overlay">
       <h1>Simply The Best</h1>
       <h3>Dalagang Pilipina yeah</h3>
-	   <button>CHARAAAN</button>
+	   <button>CHARAAAN!!!!</button>
 		
         </div>
         </div>
