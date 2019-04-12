@@ -1,0 +1,7 @@
+.footer {
+    padding: 50px;
+    background: linear-gradient(to left, #99ccff 0%, #ff66cc 100%);
+    text-align: center;
+      float: left;
+      width:100%;
+}
